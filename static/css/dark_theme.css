@@ -1,0 +1,43 @@
+/* Estilos generales */
+body {
+    background-color: #212529;
+    color: #f8f9fa;
+}
+
+/* Navbar */
+.navbar-inverse {
+    background-color: #343a40;
+    border-color: #343a40;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #f8f9fa;
+}
+
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+    color: #adb5bd;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #f8f9fa;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+    color: #adb5bd;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #adb5bd;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #adb5bd;
+}
+
+/* Contenido */
+.page-header {
+    border-color: #6c757d;
+    color: #f8f9fa;
+}
